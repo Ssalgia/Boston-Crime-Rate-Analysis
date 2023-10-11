@@ -1,6 +1,6 @@
 # Boston-Crime-Rate-Analysis
 
-### INTRODUCTION:
+ ###INTRODUCTION:
       Boston is Massachusetts capital and largest city. Founded in 1630.It was the scene of several key events of the American Revolution, such as the Boston Massacre, the Boston Tea Party, the Battle of Bunker Hill, and the Siege of Boston. Upon gaining U.S. independence from Great Britain, it continued to be an important port and manufacturing hub as well as a center for education and culture. Its rich history attracts many tourists, with Faneuil Hall alone drawing more than 20 million visitors per year. Hence the crime rate here has seen fluctuations throughout. A city’s crime rate has always been a factor. In Boston, where the violent crime rate is 70% higher than the national average, residents also must worry about hate crime. 
 
 Introduction to Database System and Benefits:
